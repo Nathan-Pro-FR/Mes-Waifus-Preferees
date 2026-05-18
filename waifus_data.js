@@ -61,7 +61,7 @@ const WAIFUS_DATA = [
     nom: "Loona",
     anime: "Helluva Boss",
     description: "La secrétaire résignée et cynique de l'agence I.M.P. Sous ses airs distants et sa personnalité de louve solitaire, elle cache un attachement secret pour sa famille.",
-    image: "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500",
+    image: "images/Loona.jpg",
     tags: ["Gothique", "Louve", "Cynique"]
   },
   {
